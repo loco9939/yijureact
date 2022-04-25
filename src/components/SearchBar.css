@@ -1,0 +1,13 @@
+/* 1. placeholder 연하게하고 크기 키우기 */
+.srch {
+  width: 50vw;
+  height: 45px;
+  border-radius: 50px;
+  text-align: center;
+}
+
+button {
+  background-color: transparent;
+  border: 0;
+}
+

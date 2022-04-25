@@ -2,11 +2,15 @@
   text-align: center;
 }
 .black-nav {
-  background : black;
-  width : 100%;
-  display : flex;
-  color : white;
-  padding : 20px;
-  font-weight : 600;
-  font-size : 20px;
+  background: black;
+  width: 100%;
+  display: flex;
+  color: white;
+  padding: 20px;
+  font-weight: 600;
+  font-size: 20px;
+}
+#card-group {
+  width: 900px;
+  justify-content: center;
 }
