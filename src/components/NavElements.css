@@ -1,7 +1,7 @@
 .nav-container {
   display: flex;
   justify-content: space-between;
-  margin: 1% 10% 2% 10%;
+  margin: 20px 250px 50px;
   border-bottom: 0.5px solid gray;
 }
 a {
@@ -19,12 +19,13 @@ a:hover {
   width: 500px;
   justify-content: center;
 }
-p {
-  margin: 0;
-  padding: 0 7%;
-}
 .nav-login {
   display: flex;
-  min-width: 200px;
   justify-content: flex-end;
+}
+#sign-up {
+  padding-left: 20px;
+}
+#list-center {
+  padding: 0 50px;
 }

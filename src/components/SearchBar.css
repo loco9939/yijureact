@@ -1,13 +1,17 @@
 /* 1. placeholder 연하게하고 크기 키우기 */
+.search-container {
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+}
 .srch {
-  width: 50vw;
-  height: 45px;
+  width: 100%;
+  height: 40px;
   border-radius: 50px;
   text-align: center;
 }
-
-button {
-  background-color: transparent;
-  border: 0;
+.icon-src {
+  position: absolute;
+  top: 13px;
+  left: 870px;
 }
-

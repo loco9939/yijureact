@@ -1,0 +1,39 @@
+.card {
+  width: 280px;
+  height: 360px;
+  border-radius: 10%;
+  padding: 0 10px;
+  border: 1px solid black;
+  text-align: left;
+}
+
+.card-body {
+  width: 280px;
+  height: 360px;
+  border-radius: 10%;
+  padding: 0 10px;
+  text-align: left;
+}
+.card-body > h2 {
+  margin: 0;
+}
+.fs-sm {
+  font-size: 11px;
+}
+.icon-inline {
+  display: inline-block;
+  vertical-align: middle;
+}
+.card-review > p {
+  display: inline-block;
+  background-color: #f8f8f8;
+  padding: 10px;
+  border-radius: 20px;
+  margin: 0;
+}
+.ms-1 {
+  margin-right: 5px;
+}
+img {
+  width: 100%;
+}

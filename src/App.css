@@ -10,7 +10,12 @@
   font-weight: 600;
   font-size: 20px;
 }
-#card-group {
-  width: 900px;
-  justify-content: center;
+.card-box {
+  width: 930px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+* {
+  box-sizing: border-box;
 }
