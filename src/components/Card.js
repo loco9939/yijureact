@@ -2,6 +2,7 @@
 import React from "react";
 import "./Card.css";
 import { BsSearch } from "react-icons/bs";
+import { AiFillStar } from "react-icons/ai";
 
 function Card() {
   return (
@@ -9,7 +10,7 @@ function Card() {
       <img src="img/card_img.png" width=""alt="사진" />
       <div className="card-body">
         <h2 id="card-title">청년 주택 담보 대출</h2>
-        <BsSearch className="icon-inline ms-1" /><p className="icon-inline">3.2 <span className="fs-sm">(27)</span></p>
+        <AiFillStar className="icon-inline ms-1" /><p className="icon-inline">3.2 <span className="fs-sm">(27)</span></p>
         <p className="fs-sm">복지 서비스 이용후기</p>
         <div className="card-review-container">
           <div className="card-review">

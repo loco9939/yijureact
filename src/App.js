@@ -8,6 +8,7 @@ import SearchBar from "./components/SearchBar";
 import Card from "./components/Card";
 import Review from "./components/Review";
 import Button from "./components/Button";
+import ReviewCard from "./components/ReviewCard";
 
 function App() {
   return (
